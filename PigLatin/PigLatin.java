@@ -5,8 +5,9 @@ public class PigLatin
 	public static void main(String[] args)
 	{
 		Scanner scanner = new Scanner(System.in);
+		System.out.print("Enter: ");
 		String string = scanner.nextLine();
-		System.out.println(translate(string));	
+		System.out.println("Translation: " + translate(string));	
 	}
 	
 	public static String translate(String s)
