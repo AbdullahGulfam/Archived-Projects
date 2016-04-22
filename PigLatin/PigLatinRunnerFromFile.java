@@ -1,3 +1,4 @@
+//This program takes the text from a pre-existing text file called "english.txt" and outputs a new text file called "piglatin.txt" with the translation of the original text file.
 import java.util.Scanner;
 import java.io.File;
 import java.io.PrintWriter;
