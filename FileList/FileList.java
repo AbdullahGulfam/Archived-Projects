@@ -1,5 +1,5 @@
 /*
-	This is a Java program the emulates the Unix 'ls' command. It is intended to run from a command line prompt. It displays files and directories, and their associated information. There a several options thats can be used:
+	This is a Java program the emulates the Unix 'ls' command. It is intended to run from a command line prompt. It displays files and directories in the root of the Java program, and their associated information. There a several options thats can be used:
 	no options : all files shown execpt hidden files
 	-A : show all files, including hidden files
 	-l : show extended information
