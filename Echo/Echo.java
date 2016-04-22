@@ -1,5 +1,5 @@
 /*
-	This is a Java program that I've made that is intended to be run through a command line prompt. It mimics the Unix Echo command and incorporates several command line options. 
+	This is a Java program that I've made that is intended to be run through a command line prompt. It emulates the Unix 'Echo' command and incorporates several command line options. 
 	-n : doesn't output on the same line
 	-e : allows for backslash characters to be interpreted.
 	\n : new line
