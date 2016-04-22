@@ -1,3 +1,4 @@
+//This program runs a small scale efficiency test on the selecion sort, insertion sort, and merge sort, under varying conditions. 
 public class SortEfficiency
 {
 	public static void main(String[] args)
