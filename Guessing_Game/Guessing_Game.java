@@ -1,4 +1,5 @@
 //Abdullah Gulfam
+// This is just a simple Java program that runs a guessing game. 
 import java.util.Scanner;
 public class Guessing_Game
 {
